@@ -1,0 +1,89 @@
+/* Navbar */
+#logo{
+	width: 30vw;
+}
+#navbartitle{
+	color: #5d5d5d; 
+	font-size: 52%;
+	line-height: 3;
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+	#navbartitle{
+		font-size: 85%;
+	}
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	#navbartitle{
+		font-size: 120%;
+	}
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+	#logo{
+		width: 20vw;
+	}
+	.navbar-brand{
+		margin-right: 6rem !important;
+	}
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	.navbar-brand{
+		margin-right: 13% !important;
+	}
+	#logo{
+		width: 30%;
+	}
+	#navbartitle{
+		line-height: 4;
+		font-size: 80%;
+	}
+}
+.shadow{
+	box-shadow: 0 7px 10px -6px #ccc;
+}
+
+/* Banner */
+#mainbanner{
+	background-image: url(images/reunion.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	width: 100%;
+	left: 0;
+	border-top: 5px solid rgba(0, 0, 0, 0.5);
+	border-bottom: 5px solid rgba(0, 0, 0, 0.5);
+}
+#mbcontent{
+	background: rgba(0, 0, 0, 0.5);
+	height: 100%;
+	color: #fff;
+	padding: 4% 2%;
+	/*font-size: 5%; for smaller vies */
+
+}
+@media (min-width: 1200px){
+	#mainbanner{
+		background-size: 1100px;
+		width: 1100px;
+		height: 60%;
+		left: auto !important;
+	}
+}
+
+/* TabBar de Servicios */
+#servs{
+	margin-top: 1.5%; 
+}
+.servtab{
+	
+}
+.servlink{
+	padding: 17% 20% !important;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+	/*font-size: 5%; for smalle views*/
+}
