@@ -196,14 +196,9 @@ header .makerow {
 
 footer{
 	background: rgba(51, 153, 255, 1);
-	position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
     color: white;
     text-align: center;
     line-height: 300%;
-    height: 7vh;
     text-shadow: none;
     font-family: "Jacques Francois";
     font-size: 12px;
