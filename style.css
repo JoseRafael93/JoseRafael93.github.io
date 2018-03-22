@@ -14,10 +14,10 @@
 	src: url('fonts/Lato-Hairline.ttf');
 }
 
-/* body */
+/* container settings */
 
-body {
-	min-height: 100vh;
+.container-fluid {
+	max-width: 1190px;
 }
 
 /* Header - Navbar */
