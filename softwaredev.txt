@@ -1,0 +1,13 @@
+Comprender los elementos del desarrollo exitoso de software.
+Implemente la planificación previa al proyecto, incluido el uso de nuestras listas de verificación previas al compromiso para garantizar que nuestro tiempo con usted sea impactante
+Establezca la visión del proyecto, incluida la definición de qué omitir, cómo obtener patrocinio ejecutivo, establecer objetivos de alcance y publicar planes y avances.
+Cree un plan de dotación de personal que incluya la creación, organización e implementación de herramientas para áreas como la contabilidad del tiempo
+Implemente el desarrollo de requisitos identificando usuarios finales clave, entrevistando usuarios finales, creando prototipos de interfaz y utilizando guiones gráficos / prototipos.
+Al inicio del proyecto, se definen prácticas de control de calidad que incluyen la creación de un plan de control de calidad para el seguimiento de defectos, revisiones técnicas, pruebas de sistemas, pruebas beta y reglas de lanzamiento.
+Defina una arquitectura de software que incluya las características de una buena arquitectura, notación, cambio de escenarios / estrategia, reutilización de análisis, decisiones de compre vs. compilación, trazabilidad de requisitos y guíe un plan de entrega bien estructurado
+Calcule el proyecto, incluidas las estimaciones por objetivos clave y el seguimiento de quema / quema
+Defina el plan para los requisitos, el diseño detallado, la construcción, los casos de prueba, la documentación del usuario, las revisiones técnicas, la corrección de defectos, la gestión de riesgos, el seguimiento de proyectos, la integración y el lanzamiento, y las estrategias comprobadas en el campo para lograr los objetivos de calidad
+Cree un diseño detallado que incluya la resolución de requisitos y la trazabilidad, el plan de construcción, la corrección de defectos de arquitectura y el plan de pruebas
+Programe / construya la aplicación, incluida la definición de estándares de codificación, reglas para garantizar un trabajo sólido entre los miembros del equipo, compilaciones diarias, seguimiento del progreso y un plan de comunicación con los clientes y la administración.
+Implemente y realice pruebas del sistema, incluyendo la definición de las pautas para el apoyo del grupo de pruebas de las compilaciones diarias y el uso de un enfoque estratégico general para el control de calidad.
+Cree y ejecute un plan de lanzamiento de software que incluya determinar cuándo liberar y rastrear los recuentos de defectos, la predicción de densidad de defectos / agrupamiento / siembra / modelado
