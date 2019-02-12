@@ -6,7 +6,7 @@
 
 /* Banner */
 
-@include font-face(Vivaldi, "../fonts/VIVALDII", null, null, ttf);
+@include font-face(Vivaldi, "../fonts/vivaldi", null, null, ttf);
 
 	#banner {
 		@include vendor('align-items', 'center');
