@@ -2620,6 +2620,7 @@ div::-webkit-scrollbar-thumb:hover {
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, filter 0.2s ease-in-out;
   display: inline-block;
   height: 85%;
+  max-height: 70px;
   filter: invert(1);
   vertical-align: middle;
   margin-right: 0.325em;
