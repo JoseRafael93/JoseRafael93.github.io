@@ -215,7 +215,7 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
+		@include breakpoint('<=medium') {
 			article {
 				@include padding(3em, 1.5em);
 				height: 16em;
@@ -232,7 +232,7 @@
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
+		@include breakpoint('<=small') {
 			display: block;
 
 			article {

@@ -43,7 +43,7 @@
 					'filter #{_duration(transition)} ease-in-out'
 				));
 				display: inline-block;
-				height: 1.85em;
+				height: 85%;
 				filter: invert(1);
 				vertical-align: middle;
 				margin-right: 0.325em;
@@ -182,8 +182,8 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
-			height: 5.75em;
+		@include breakpoint('<=medium') {
+			height: 2.75em;
 			line-height: 2.75em;
 
 			.logo {
@@ -217,7 +217,10 @@
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
+		@include breakpoint('<=small') {
+			height: 5.75em;
+			line-height: 5.75em;
+
 			.logo {
 				span {
 					display: none;

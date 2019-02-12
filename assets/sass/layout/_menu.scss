@@ -43,7 +43,7 @@
 			overflow: auto;
 			text-align: center;
 			visibility: hidden;
-			width: 18em;
+			width: 30em;
 
 			> :first-child {
 				margin-top: _size(element-margin);
@@ -68,7 +68,7 @@
 						border: 0;
 						border-top: solid 1px _palette(border);
 						display: block;
-						font-size: 0.8em;
+						font-size: 1.5em;
 						font-weight: _font(weight-bold);
 						letter-spacing: _font(letter-spacing-alt);
 						line-height: 4em;
