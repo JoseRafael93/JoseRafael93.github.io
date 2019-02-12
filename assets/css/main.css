@@ -2813,7 +2813,7 @@ body.is-preload #header.alt {
 /* Banner */
 @font-face {
   font-family: "Vivaldi";
-  src: url("../fonts/VIVALDII.ttf") format("truetype");
+  src: url("../fonts/vivaldi.ttf") format("truetype");
 }
 #banner {
   -moz-align-items: center;
