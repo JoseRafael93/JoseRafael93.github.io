@@ -2861,7 +2861,7 @@ body.is-preload #header.alt {
 #banner h1 {
   font-size: 3.25em;
   font-family: "Vivaldi", "Source Sans Pro";
-  letter-spacing: 5px;
+  font-weight: normal;
 }
 #banner > .inner {
   -moz-transition: opacity 1.5s ease, -moz-transform 0.5s ease-out, -moz-filter 0.5s ease, -webkit-filter 0.5s ease;
